@@ -10,7 +10,7 @@
 
 ## Objetivo do Projeto
 
-Desenvolver um aplicativo PWA, onde é possível cada usuário adicionar, remover e editar notas.
+Aplicativo para fins de estudo de PWA, onde é possível cada usuário adicionar, remover e editar notas.
 
 ## Como Utilizar
 
